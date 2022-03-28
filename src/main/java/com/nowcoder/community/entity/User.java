@@ -11,6 +11,7 @@ public class User {
     private String email;
     private int type;
     private int status;
+    //激活码
     private String activationCode;
     private String headerUrl;
     private Date createTime;
